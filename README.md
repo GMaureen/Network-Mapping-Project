@@ -1,6 +1,6 @@
 # Network-Mapping-Project
 
-# Galaletsang Maureen Mokgele  
+# Name: Galaletsang Maureen Mokgele  
 
 ## Network Mapping and Ping Test Project  
 
