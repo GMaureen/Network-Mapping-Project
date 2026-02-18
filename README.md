@@ -2,7 +2,7 @@
 
 # Name: Galaletsang Maureen Mokgele  
 
-## Network Mapping and Ping Test Project  
+## Project: Network Mapping and Ping Test Project  
 
 
 
